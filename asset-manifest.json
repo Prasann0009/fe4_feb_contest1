@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fe4_feb_contest1/static/css/main.be9339a5.css",
+    "main.js": "/fe4_feb_contest1/static/js/main.13af6f1d.js",
+    "index.html": "/fe4_feb_contest1/index.html",
+    "main.be9339a5.css.map": "/fe4_feb_contest1/static/css/main.be9339a5.css.map",
+    "main.13af6f1d.js.map": "/fe4_feb_contest1/static/js/main.13af6f1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be9339a5.css",
+    "static/js/main.13af6f1d.js"
+  ]
+}
